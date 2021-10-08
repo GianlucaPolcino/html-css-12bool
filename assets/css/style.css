@@ -1,0 +1,23 @@
+.box{
+    padding: 12px;
+    text-align: center;
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid white;
+}
+
+.box-green{
+    padding: 12px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    border: 1px solid cornflowerblue;
+}
+
+.separator{
+    height: 30px;
+}
+
+h1, h2{
+    margin-bottom: 30px;
+}
